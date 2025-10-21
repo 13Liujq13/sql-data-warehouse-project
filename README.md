@@ -10,6 +10,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 2.银层 ：此层包括数据清理、标准化和规范化过程，以准备分析数据。<br>
 3.黄金层 ：将业务就绪数据建模为报告和分析所需的星型模式。<br>
 
-下面为每层的数据<br>
-![image](https://github.com/13Liujq13/sql-data-warehouse-project/blob/main/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.drawio.png)
+
+![image](https://github.com/13Liujq13/sql-data-warehouse-project/blob/main/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B%E5%9B%BE.drawio.png)<br>
+
+![image](https://github.com/13Liujq13/sql-data-warehouse-project/blob/main/%E5%AD%97%E6%AE%B5%E8%A1%A8%E8%BF%9E%E6%8E%A5%E7%A4%BA%E6%84%8F%E5%9B%BE.drawio.png)<br>
 
