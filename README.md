@@ -15,3 +15,4 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ![image](https://github.com/13Liujq13/sql-data-warehouse-project/blob/main/%E5%AD%97%E6%AE%B5%E8%A1%A8%E8%BF%9E%E6%8E%A5%E7%A4%BA%E6%84%8F%E5%9B%BE.drawio.png)<br>
 
+![image](https://github.com/13Liujq13/sql-data-warehouse-project/blob/main/gold.drawio.png)
